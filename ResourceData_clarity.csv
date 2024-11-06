@@ -1,0 +1,44 @@
+SN,Resource name,resid,Res Mial id,Manager mail id,Status
+1,"Kumar, Akansh",5255002,akansh.kumar@lumen.com,Praveen.K.Chinni@lumen.com,Not Reviewed
+2,"Beg, Mirza Mahir",5017695,Mirza.Beg@lumen.com,akansh.kumar@lumen.com,Not Reviewed
+3,"R, Sanjay",6154403,Sanjay.R@lumen.com,akansh.kumar@lumen.com,User Adjusted - Admin Only
+4,"Udaynath Reddy, Yellampalle",6232061,Yellampalle.UdaynathReddy@lumen.com,akansh.kumar@lumen.com,Not Reviewed
+5,"Gowda, Vinutha S",5771076,Vinutha.Gowda@lumen.com,akansh.kumar@lumen.com,Not Reviewed
+6,"Avadhut Sapte, Tejal",5932001,Tejal.AvadhutSapte@lumen.com,akansh.kumar@lumen.com,Accepted
+7,"Parul, Smrity",5614008,Smrity.Parul@lumen.com,Jammy.Chungkham@lumen.com,Not Reviewed
+8,"Chandrakala, Jinka",6024107,Jinka.Chandrakala@lumen.com,Jammy.Chungkham@lumen.com,Accepted
+9,"Reddy, Purushotham",5016182,Purushotham.Reddy@lumen.com,Jammy.Chungkham@lumen.com,Accepted
+10,"Raul, Om",5844008,OmPrakash.Raul@lumen.com,Jammy.Chungkham@lumen.com,Accepted
+11,"Kumar, Binod",5077029,Binod.Kumar@lumen.com,Jayakumar.KSomasundaram@lumen.com,Accepted
+12,"Prem Kumar, Kiran Sendil Kumar",5583020,Kiransendilkumar.Premkumar@lumen.com,Jayakumar.KSomasundaram@lumen.com,Not Reviewed
+13,"Ranjan, Prakash",5816216,Prakash.Ranjan@lumen.com,Jayakumar.KSomasundaram@lumen.com,Not Reviewed
+14,"Chanagoudar, Shweta",5891003,Shweta.Chanagoudar@lumen.com,Jayakumar.KSomasundaram@lumen.com,Accepted
+15,"C K, Nisarga",5950149,Nisarga.CK@lumen.com,Jayakumar.KSomasundaram@lumen.com,Accepted
+16,"Sankeerthana, Preethi",5011553,Preethi.Sankeerthana@lumen.com,Rekha.OP@lumen.com,Accepted
+17,"A N, Varshitha",5858003, Varshitha.AN@lumen.com,Rekha.OP@lumen.com,Accepted
+18,"Narasappa Gari Seshadri, Pedda",5989100,P.Seshadri@lumen.com,Rekha.OP@lumen.com,Accepted
+19,"G G, Manoj",5987104,Manoj.GG@lumen.com,Rekha.OP@lumen.com,Accepted
+20,"Divya, Palagiri",6160019,Palagiri.Divya@lumen.com,Rekha.OP@lumen.com,Accepted
+21,"Deshpande, Anand",5135038, Anand.Deshpande@lumen.com,Sohaib.Farooqi@lumen.com,Accepted
+22,"Bangera, Bindya Shilpa",5583303,Bindya.S.Bangera@lumen.com,Sohaib.Farooqi@lumen.com,Accepted
+23,"Ayyappasamy, Balaji",6009072,Balaji.Ayyappasamy@lumen.com,Sohaib.Farooqi@lumen.com,Accepted
+24,"Ravindran, Divya",6007143,Divya.Ravindran@lumen.com,Sohaib.Farooqi@lumen.com,Accepted
+25,"N, Pavithra",5887086,Pavithra.N@lumen.com,Saurabh.Kumar@lumen.com,Not Reviewed
+26,"Biradar, Ankita",5909006,Ankita.Biradar@lumen.com,Saurabh.Kumar@lumen.com,Not Reviewed
+27,"Pitchaimuthu, Rajasekaran",5961006,Rajasekaran.Pitchaimuthu@lumen.com,Saurabh.Kumar@lumen.com,Not Reviewed
+28,"Maneesha, Mettu",5987114, Mettu.Maneesha@lumen.com,Saurabh.Kumar@lumen.com,Not Reviewed
+29,"Satish Borate, Neha",5994285,Neha.SatishBorate@lumen.com,Saurabh.Kumar@lumen.com,Not Reviewed
+30,"Babasaheb Khedkar, Pratiksha",6098033,Pratiksha.BabasahebKhedkar@lumen.com,Saurabh.Kumar@lumen.com,Not Reviewed
+31,"Arvind Mamidwar, Monika",6095356,Monika.ArvindMamidwar@lumen.com,Saurabh.Kumar@lumen.com,Not Reviewed
+32,"Nandikol, Megha",6107017,Megha.Nandikol@lumen.com,Saurabh.Kumar@lumen.com,Not Reviewed
+33,"S, Sathishkumar",6160015,SathishKumar.Daki@lumen.com,Saurabh.Kumar@lumen.com,Not Reviewed
+34,"Rajula, Sireesha",6160042,Sireesha.Rajula@lumen.com,Saurabh.Kumar@lumen.com,Not Reviewed
+35,"Raj R, Madhan",6191001,Madhan.RajR@lumen.com,Saurabh.Kumar@lumen.com,Not Reviewed
+36,"Chungkham, Jammy",5012298,Jammy.Chungkham@lumen.com,Praveen.K.Chinni@lumen.com,Not Reviewed
+37,"K Somasundaram, Jayakumar",5012678,Jayakumar.KSomasundaram@lumen.com,Praveen.K.Chinni@lumen.com,Not Reviewed
+38,"Reddy, Sanath",5014728,Sanath.Reddy@lumen.com,Praveen.K.Chinni@lumen.com,Not Reviewed
+39,"O P, Rekha",5017477,Rekha.OP@lumen.com,Praveen.K.Chinni@lumen.com,Not Reviewed
+40,"Kumar, Saurabh",5017489,Saurabh.Kumar@lumen.com,Praveen.K.Chinni@lumen.com,Not Reviewed
+41,"Kumar, Ankur",5080053,Ankur.Kumar@lumen.com,Praveen.K.Chinni@lumen.com,Not Reviewed
+42,"Farooqi, Sohaib",5185261,Sohaib.Farooqi@lumen.com,Praveen.K.Chinni@lumen.com,Not Reviewed
+43,"Chinni, Praveen",5136070,Praveen.K.Chinni@lumen.com,Praveen.K.Chinni@lumen.com,Not Reviewed
